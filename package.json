@@ -1,5 +1,5 @@
 {
-  "name": "@bootloader/controller",
+  "name": "@bootloader/bootpress",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
